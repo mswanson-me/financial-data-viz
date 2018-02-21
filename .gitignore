@@ -106,3 +106,12 @@ venv.bak/
 
 # custom
 config.py
+bin
+include
+lib64
+pyvenv.cfg
+share
+config.py
+lib
+__pycache__
+

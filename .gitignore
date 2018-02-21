@@ -114,4 +114,5 @@ share
 config.py
 lib
 __pycache__
-
+fin_funcs.py
+financial-data-viz.ipynb
